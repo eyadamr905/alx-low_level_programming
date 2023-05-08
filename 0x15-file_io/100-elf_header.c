@@ -269,8 +269,8 @@ void close_elf(int elf)
  *
  * Description: If the file is not an ELF File or
  * the function fails - exit code 98.
- * SUUUUUUUIIIIIIIIIIIIIIIIIIIIIII
  * git_hub acc eyadamr905
+ * SUIIIIIIIIIIIIIIIIIIIIII
  */
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
@@ -314,4 +314,3 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	close_elf(o);
 	return (0);
 }
-
