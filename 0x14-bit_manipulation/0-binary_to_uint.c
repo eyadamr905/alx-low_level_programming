@@ -5,6 +5,7 @@
  * @b: string containing the binary number
  *
  * Return: the converted number
+ * git hub acc:eyadamr905
  */
 unsigned int binary_to_uint(const char *b)
 {

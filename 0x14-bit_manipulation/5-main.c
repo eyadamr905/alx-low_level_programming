@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 
-/**
+/** suiiiiiiiiiiiiii
+ * eyadamr905
+ * -------------------------
  * main - check the code
  *
  * Return: Always 0.
